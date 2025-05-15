@@ -20,7 +20,7 @@ Certain ZMK features (e.g. combos) require knowing the exact key positions in th
 1. Push a commit to trigger the build.
 2. Download the artifact.
 
-## Building the Firmware in a local container
+## Building the Firmware in a local container.
 
 ### Setup
 
